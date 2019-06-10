@@ -3,24 +3,34 @@ Visual guide for Book of Mormon: app
 
 ## Features to Include ##
 + Search bar
-  + Maybe also a dragable bar to go over time
+  + Timeline
+  + Classes
+    + Timeline class
 + Side bar
   + Chapter/year
   + Summary of events
-  + helpful links: chapter, come follow me, bible video, bom stories
+  + Contains Links
   + Personal notes
+  + Classes
+    + TBD
++ Links to Gospel Library Material
+  + Links to scriptures, Come Follow Me, and other materials
+  + Classes:
+    + Links class
+    + API class
+    + Load Data class
 + Interactive map
   + Cities and places points
   + Color for nephite, lamanite, jaredite
   + Can click on city for summary
   + Only shows chapters that exist in that year/chapter
   + Cities are removed as they are destroyed or change color as they are taken
+  + Classes
+    + Location/City class
+    + Event class
 + Arrows for travels
   + Color for nephite, lamanite, jaredite
-~~~
-Classes
-- City
-- Arrow?
-
-~~~
-
+  + Classes
+    + Arrow
++ User Settings
+  + DARK THEME!!!
