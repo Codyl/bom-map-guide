@@ -3,14 +3,20 @@
       {
          "location":"Nephi",
          "Type":"City",
+         "Desc":"https://www.churchofjesuschrist.org/study/scriptures/triple-index/nephi-city-of?lang=eng&clang=eng#title2",
          "Event":[
             {
                "event":"City is built",
-               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng"
+               "year":"about 600 BC",
+               "P/K/J":"Nephi",
+               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng",
+               "CFM link":"",
+               "BOMV link":""
             },
             {
                "event":"Jacob teaches about history",
-               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/6?lang=eng"
+               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/6?lang=eng",
+               "BOMS link":"https://www.churchofjesuschrist.org/manual/book-of-mormon-stories/chapter-10-jacob-and-sherem?lang=eng"
             },
             {
                "event":"Temple is built",
@@ -21,18 +27,32 @@
       {
          "location":"Jerusalem",
          "Type":"City",
+         "Desc":"https://www.churchofjesuschrist.org/study/scriptures/triple-index/jerusalem-1?lang=eng&clang=eng#title2",
          "Event":[
             {
                "event":"Lehi's prophecy of destruction",
-               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=eng"
+               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=eng",
+               "BOMS link":"https://www.churchofjesuschrist.org/manual/book-of-mormon-stories/chapter-2-lehi-warns-the-people?lang=eng"
             },
             {
-               "event":"Getting the golden plates",
-               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/3?lang=eng"
+               "event":"Lehi leaves Jerusalem",
+               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/2?lang=eng",
+               "BOMS link":"https://www.churchofjesuschrist.org/manual/book-of-mormon-stories/chapter-3-lehi-leaves-jerusalem?lang=eng"
+            },
+            {
+               "event":"The Brass Plates",
+               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/3?lang=eng",
+               "BOMS link":"https://www.churchofjesuschrist.org/manual/book-of-mormon-stories/chapter-4-the-brass-plates?lang=eng"
+            },
+            {
+               "event":"Traveling in the wilderness",
+               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/7?lang=eng",
+               "BOMS link":"https://www.churchofjesuschrist.org/manual/book-of-mormon-stories/chapter-5-traveling-in-the-wilderness?lang=eng"
             },
             {
                "event":"Lehi’s dream",
-               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/8.10-35?lang=eng#p10"
+               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/8.10-35?lang=eng#p10",
+               "BOMS link":"https://www.churchofjesuschrist.org/manual/book-of-mormon-stories/chapter-6-lehis-dream?lang=eng"
             }
          ]
       }
