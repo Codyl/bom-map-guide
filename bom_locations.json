@@ -1,0 +1,40 @@
+{
+   "Location":[
+      {
+         "location":"Nephi",
+         "Type":"City",
+         "Event":[
+            {
+               "event":"City is built",
+               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng"
+            },
+            {
+               "event":"Jacob teaches about history",
+               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/6?lang=eng"
+            },
+            {
+               "event":"Temple is built",
+               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng"
+            }
+         ]
+      },
+      {
+         "location":"Jerusalem",
+         "Type":"City",
+         "Event":[
+            {
+               "event":"Lehi's prophecy of destruction",
+               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=eng"
+            },
+            {
+               "event":"Getting the golden plates",
+               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/3?lang=eng"
+            },
+            {
+               "event":"Lehi’s dream",
+               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/8.10-35?lang=eng#p10"
+            }
+         ]
+      }
+   ]
+}
