@@ -1,0 +1,19 @@
+{
+    "People":
+    [
+        {
+            "name": "Nephi",
+            "Alignment": "Nephite",
+            "member": "yes",
+            "Desc": "Of goodly parents",
+            "art image location": ""
+        },
+        {
+            "name": "Laman",
+            "Alignment": "Lamanite",
+            "member": "yes",
+            "Desc": "Of goodly parents",
+            "art image location": ""
+        }
+    ]
+}

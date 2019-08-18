@@ -1,60 +1,1602 @@
 {
-   "Location":[
+   "Location":
+   [
       {
-         "location":"Nephi",
-         "Type":"City",
-         "Desc":"https://www.churchofjesuschrist.org/study/scriptures/triple-index/nephi-city-of?lang=eng&clang=eng#title2",
-         "Event":[
-            {
-               "event":"City is built",
-               "year":"about 600 BC",
-               "P/K/J":"Nephi",
-               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng",
-               "CFM link":"",
-               "BOMV link":""
-            },
-            {
-               "event":"Jacob teaches about history",
-               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/6?lang=eng",
-               "BOMS link":"https://www.churchofjesuschrist.org/manual/book-of-mormon-stories/chapter-10-jacob-and-sherem?lang=eng"
-            },
-            {
-               "event":"Temple is built",
-               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/5?lang=eng"
-            }
-         ]
+      "location":	"Nephi",
+      "Type":		"Major City",
+      "Desc":		"chief city in the land of Nephi",
+      "Event":
+      [
+         {
+            "event":	"City is built",
+            "year":		"about 600 BC",
+            "P/K/J":	"Nephi",
+            "scripture":		"2 Nephi 5"
+         },
+         {
+            "event":	"Jacob teaches the people",
+            "scripture":		"2 Nephi 6",
+            "BOMS link":	"chapter-10"
+         },
+         {
+            "event":	"Temple is built",
+            "scripture":		"2 Nephi 5",
+            "BOMS link": "chapter-9-a-new-home-in-the-promised-land"
+         },
+         {
+            "event":	"Enos",
+            "scripture":		"Enos 1",
+            "BOMS link": "chapter-11-enos"
+         },
+         {
+            "event":	"Some of limhis people flee to the land of nephi",
+            "scripture":		"Mosiah 23",
+            "BOMS link": ""
+         },
+         {
+            "event": "Converted",
+            "scripture": "Alma 23:11"
+         }
+      ]
+   },
+   {
+      "location":	"Jerusalem",
+      "Type":		"Major City",
+      "Desc":		"near the red sea",
+      "Event":
+      [
+         {
+            "event":	"Lehi's prophecy of destruction",
+            "scripture":		"1 Nephi 1",
+            "BOMS link":	"chapter-2-lehi-warns-the-people"
+   
+         },
+         {
+            "event":	"Lehi leaves Jerusalem",
+            "scripture":		"1 Nephi 2",
+            "BOMS link":	"chapter-3-lehi-leaves-jerusalem"
+         },
+         {
+            "event":	"The Brass Plates",
+            "scripture":		"1 Nephi 3",
+            "BOMS link":	"chapter-4-the-brass-plates"
+         },
+         {
+            "event":	"Traveling in the wilderness",
+            "scripture":		"1 Nephi 7",
+            "BOMS link":	"chapter-5-traveling-in-the-wilderness"
+         },
+         {
+            "event":	"Lehi’s dream",
+            "scripture":		"",
+            "BOMS link":	"chapter-6-lehis-dream"
+         }
+      ]
+   },
+   {
+      "location":	"Zarahemla",
+      "Type":		"Major City",
+      "Desc":		"",
+      "Events":[{
+         "event":	"King Benjamin",
+         "scripture":		"",
+         "BOMS link":	"chapter-12-king-benjamin"
       },
       {
-         "location":"Jerusalem",
-         "Type":"City",
-         "Desc":"https://www.churchofjesuschrist.org/study/scriptures/triple-index/jerusalem-1?lang=eng&clang=eng#title2",
-         "Event":[
-            {
-               "event":"Lehi's prophecy of destruction",
-               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/1?lang=eng",
-               "BOMS link":"https://www.churchofjesuschrist.org/manual/book-of-mormon-stories/chapter-2-lehi-warns-the-people?lang=eng"
-            },
-            {
-               "event":"Lehi leaves Jerusalem",
-               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/2?lang=eng",
-               "BOMS link":"https://www.churchofjesuschrist.org/manual/book-of-mormon-stories/chapter-3-lehi-leaves-jerusalem?lang=eng"
-            },
-            {
-               "event":"The Brass Plates",
-               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/3?lang=eng",
-               "BOMS link":"https://www.churchofjesuschrist.org/manual/book-of-mormon-stories/chapter-4-the-brass-plates?lang=eng"
-            },
-            {
-               "event":"Traveling in the wilderness",
-               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/7?lang=eng",
-               "BOMS link":"https://www.churchofjesuschrist.org/manual/book-of-mormon-stories/chapter-5-traveling-in-the-wilderness?lang=eng"
-            },
-            {
-               "event":"Lehi’s dream",
-               "scripture link":"https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/8.10-35?lang=eng#p10",
-               "BOMS link":"https://www.churchofjesuschrist.org/manual/book-of-mormon-stories/chapter-6-lehis-dream?lang=eng"
-            }
-         ]
+         "event":	"Limhi escape",
+         "scripture":		"",
+         "BOMS link":	"chapter-16-king-limhi-and-his-people-escape"
+      },
+      {
+         "event":	"Alma the younger repents",
+         "scripture":		"",
+         "BOMS link":	"chapter-18-alma-the-younger-repents"
+      },
+      {
+         "event":	"Alma becomes a missionary",
+         "scripture":		"",
+         "BOMS link":	"chapter-19-the-sons-of-mosiah-become-missionaries"
+      },
+      {
+         "event":	"Alma becomes first chief judge, Alma and Nehor",
+         "scripture":		"",
+         "BOMS link":	"chapter-20-alma-and-nehor"
+      },
+      {
+         "event":	"The Amlicites",
+         "scripture":		"",
+         "BOMS link":	"chapter-21-the-amlicites"
+      },
+      {
+         "event":	"Korihor",
+         "scripture":		"",
+         "BOMS link":	"chapter-27-korihor"
+      },
+      {
+         "event":	"Captain Moroni and the title of liberty",
+         "scripture":		"",
+         "BOMS link":	"chapter-32-captain-moroni-and-the-title-of-liberty"
+      },
+      {
+         "event":	"King-men plot against Pahoran",
+         "scripture":		"",
+         "BOMS link":	"chapter-33-king-men-versus-freemen"
+      },
+      {
+         "event": "Taken by the king-men",
+         "scripture": "",
+         "BOMS link": "chapter-35-captain-moroni-and-pahoran"
+      },
+      {
+         "event": "Murder of the chief judge",
+         "scripture": "",
+         "BOMS link": "chapter-38-the-murder-of-the-chief-judge"
+      },
+      {
+         "event": "Nephi receives great power",
+         "scripture": "",
+         "BOMS link": "chapter-39-nephi-receives-great-power"
+      },
+      {
+         "event": "Samuel the Lamanite tells about Jesus Christ",
+         "scripture": "",
+         "BOMS link": "chapter-40-samuel-the-lamanite-tells-about-jesus-christ"
+      },
+      {
+         "event": "The signs of Christs birth",
+         "scripture": "",
+         "BOMS link": "chapter-41-the-signs-of-christs-birth"
+      },
+      {
+         "event": "Burned",
+         "scripture": "3 Nephi 9:3",
+         "BOMS link": "chapter-42-the-signs-of-christs-crucifixion"
+      },
+      {
+         "event": "Rebuilt",
+         "scripture": "",
+         "BOMS link": "chapter-48-peace-in-america"
       }
    ]
-}
+   },
+   {
+      "location":	"Bountiful",
+      "Type":		"Major City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Nephi and Lehi preach",
+            "scripture": "Helaman 5:14",
+            "BOMS link": "chapter-37-nephi-and-lehi-in-prison"
+         },
+         {
+            "event": "Jesus Christ appears to the Nephites",
+            "scripture": "",
+            "BOMS link": "chapter-43-jesus-christ-appears-to-the-nephites"
+         },
+         {
+            "event": "Jesus blesses the children",
+            "scripture": "",
+            "BOMS link": "chapter-44-jesus-christ-blesses-the-children"
+         },
+         {
+            "event": "Jesus teaches the sacrament",
+            "scripture": "",
+            "BOMS link": "chapter-45-jesus-christ-teaches-about-the-sacrament-and-prayer"
+         },
+         {
+            "event": "Jesus prays with the Nephites",
+            "scripture": "",
+            "BOMS link": "chapter-46-jesus-christ-teaches-and-prays-with-the-nephites"
+         },
+         {
+            "event": "Jesus blesses the disciples",
+            "scripture": "",
+            "BOMS link": "chapter-47-jesus-christ-blesses-his-disciples"
+         }
+      ]
+   },
+   {
+      "location":	"Shem",
+      "Type":		"Minor City",
+      "Desc":		"https://www.churchofjesuschrist.org/study/scriptures/triple-index/shem-city-of-and-land-of-2",
+      "Events":[
+         {
+            "event": "The final battle between shiz and Coriantimur",
+            "scripture": "Mormon 2:20-21"
+         }
+      ]
+   },
+   {
+      "location":	"Antum",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Place of hill shim and records",
+            "scripture": "Mormon 1:3",
+            "BOMS link": ""
+         }
+      ]
+   },
+   {
+      "location":	"Ogath",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "The final battle between shiz and Coriantimur",
+            "scripture": "",
+            "BOMS link": "chapter-47-jesus-christ-blesses-his-disciples"
+         }
+      ]
+   },
+   {
+      "location":	"Ablom",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Omer flees to Ablom",
+            "scripture": "Ether 9:3",
+            "BOMS link": ""
+         }
+      ]
+   },
+   {
+      "location":	"Boaz",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Nephites flee to Boaz and are slaughtered",
+            "scripture": "Mormon 4:20-21",
+            "BOMS link": ""
+         }
+      ]
+   },
+   {
+      "location":	"Nehor",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Shule battles Corihor",
+            "scripture": "Ether 9:7",
+            "BOMS link": ""
+         }
+      ]
+   },
+   {
+      "location":	"Jordan",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Lamanites are kept from taking Jordan",
+            "scripture": "Mormon 5:3",
+            "BOMS link": ""
+         }
+      ]
+   },
+   {
+      "location":	"Jashon",
+      "Type":		"Minor City",
+      "Desc":		"Near where Aamoron deposited the record",
+      "Events":[
+         {
+            "event": "Lamanite persuit",
+            "scripture": "Mormon 2:16",
+            "BOMS link": ""
+         }
+      ]
+   },
+   {
+      "location":	"Moron",
+      "Type":		"Minor City",
+      "Desc":		"Near the land of Desolation",
+      "Events":[
+         {
+            "event": "Is invaded by Corihor, king taken captive",
+            "scripture": "Ether 7:5-6"
+         },
+         {
+            "event": "Shule is carried captive",
+            "scripture": "Ether 7:17"
+         },
+         {
+            "event": "Throne of Coriantumr taken by the brother of Shared",
+            "scripture": "Ether 14:6"
+         },
+         {
+            "event": "Coriantumr battles lib",
+            "scripture": "Ether 14:11"
+         }
+      ]
+   },
+   {
+      "location":	"Teancum",
+      "Type":		"Minor City",
+      "Desc":		"By seashore, near Desolation",
+      "Events":[
+         {
+            "event": "Nephites flee to Teancum",
+            "scripture": "Mormon 4:3"
+         },
+         {
+            "event": "Lamanites attack and are repulsed",
+            "scripture": "Mormon 4:6-8"
+         },
+         {
+            "event": "Taken by lamanites, people sacrificed to idols",
+            "scripture": "Mormon 4:14"
+         }
+      ]
+   },
+   {
+      "location":	"Desolation",
+      "Type":		"City",
+      "Desc":		"Nephite city to the north, near Teancum, near land of Moron, day and a half journey from east to west",
+      "Events":[
+         {
+            "event": "Lamanites come to Desolation to battle",
+            "scripture": "Mormon 3:7"
+         },
+         {
+            "event": "Regained by Nephites",
+            "scripture": "Mormon 4:8"
+         },
+         {
+            "event": "Possessed again by Lamanites",
+            "scripture": "Mormon 4:13"
+         },
+         {
+            "event": "Great battle of Desolation",
+            "scripture": "Mormon 4:19"
+         },
+         {
+            "event": "Had been peopled and destroyed",
+            "scripture": "Alma 22:30-31"
+         },
+         {
+            "event": "Place of first landing of the poeple of Zarahemla",
+            "scripture": "Alma 22:30"
+         },
+         {
+            "event": "Nephites overtake Morianton in Desolation",
+            "scripture": "Mormon 3:7"
+         },
+         {
+            "event": "Hagoths ships built",
+            "scripture": "Alma 63:5"
+         },
+         {
+            "event": "Land appointed for gathering",
+            "scripture": "3 Nephi 3:23, Mormon 3:5"
+         },
+         {
+            "event": "Lamanites possess desolation",
+            "scripture": "Mormon 4:1-2, 19"
+         }
+      ]
+   },
+   {
+      "location":	"Gad",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Burned",
+            "scripture": "3 Nephi 9:10"
+         }
+      ]
+   },
+   {
+      "location":	"Gadiandi",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Sunk",
+            "scripture": "3 Nephi 9:8"
+         }
+      ]
+   },
+   {
+      "location":	"Gadiomnah",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Sunk",
+            "scripture": "3 Nephi 9:8"
+         }
+      ]
+   },
+   {
+      "location":	"Gimgimno",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Sunk",
+            "scripture": "3 Nephi 9:8"
+         }
+      ]
+   },
+   {
+      "location":	"Gilgal",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Sunk",
+            "scripture": "3 Nephi 9:6"
+         }
+      ]
+   },
+   {
+      "location":	"Josh",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Burned",
+            "scripture": "3 Nephi 9:10"
+         }
+      ]
+   },
+   {
+      "location":	"Joshua",
+      "Type":		"Minor City",
+      "Desc":		"By the borders of the west sea shore",
+      "Events":[
+         {
+            "event": "Marched",
+            "scripture": "Mormon 2:6"
+         }
+      ]
+   },
+   {
+      "location":	"Angola",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Nephites take possession",
+            "scripture": "Mormon 2:4"
+         }
+      ]
+   },
+   {
+      "location":	"Mocum",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Waters",
+            "scripture": "3 Nephi 9:7"
+         }
+      ]
+   },
+   {
+      "location":	"Jacob",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Sunk",
+            "scripture": "3 Nephi 9:10"
+         }
+      ]
+   },
+   {
+      "location":	"Jacobugath",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Burned",
+            "scripture": "3 Nephi 9:9"
+         }
+      ]
+   },
+   {
+      "location":	"Laman",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Burned",
+            "scripture": "3 Nephi 9:10"
+         }
+      ]
+   },
+   {
+      "location":	"Lemuel",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Converted",
+            "scripture": "Alma 23:12"
+         }
+      ]
+   },
+   {
+      "location":	"Mulek",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Nephi and Lehi preach",
+            "scripture": "Helaman 5:15",
+            "BOMS link": "chapter-37-nephi-and-lehi-in-prison"
+         }
+      ]
+   },
+   {
+      "location":	"Gid",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Nephi and Lehi preach",
+            "scripture": "Helaman 5:15",
+            "BOMS link": "chapter-37-nephi-and-lehi-in-prison"
+         }
+      ]
+   },
+   {
+      "location":	"Omner",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Nephites take possession",
+            "scripture": "Alma 51:26"
+         }
+      ]
+   },
+   {
+      "location":	"Morianton",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Preparing to attack",
+            "scripture": "Alma 55:33"
+         },
+         {
+            "event": "Attacked by Lamanites",
+            "scripture": "Alma 59:5"
+         }
+      ]
+   },
+   {
+      "location":	"Lehi",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Ready to receive lamanites",
+            "scripture": "Alma 51:24-26"
+         },
+         {
+            "event": "Attacked by Lamanites",
+            "scripture": "Alma 59:5"
+         }
+      ]
+   },
+   {
+      "location":	"Nephihah",
+      "Type":		"Minor City",
+      "Desc":		"Between Moroni and Aaron",
+      "Events":[
+         {
+            "event": "Moroni sent men to maintain",
+            "scripture": "Alma 59:9,11"
+         },
+         {
+            "event": "Not considered for attack",
+            "scripture": "Alma 56:25"
+         }
+      ]
+   },
+   {
+      "location":	"Moroni",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Waters",
+            "scripture": "3 Nephi 9:4",
+            "BOMS link": "chapter-42-the-signs-of-christs-crucifixion"
+         }
+      ]
+   },
+   {
+      "location":	"Moronihah",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Buried at Christs crucifiction",
+            "scripture": "3 Nephi 9:5",
+            "BOMS link": "chapter-42-the-signs-of-christs-crucifixion"
+         }
+      ]
+   },
+   {
+      "location":	"Shimnilom",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Converted",
+            "scripture": "Alma 23:12"
+         }
+      ]
+   },
+   {
+      "location":	"Ani-Anti",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Contended with many about the word",
+            "scripture": "Alma 21:11"
+         }
+      ]
+   },
+   {
+      "location":	"Jerusalem(near Nephi)",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Built",
+            "scripture": "Alma 21:2"
+         },
+         {
+            "event": "Waters",
+            "scripture": "3 Nephi 9:7"
+         }
+      ]
+   },
+   {
+      "location":	"Shilom",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":
+      
+         [
+            {
+            "event": "Land given to Zeniff",
+            "scripture": "",
+            "BOMS link": "chapter-13-zeniff"
+            },
+            {
+               "event": "Abenadi",
+               "scripture": "",
+               "BOMS link": "chapter-13-zeniff"
+            },
+            {
+               "event": "Converted",
+               "scripture": "Alma 23:12"
+            }
+         ]
+      
+   },
+   {
+      "location":	"Shemlon",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Converted",
+            "scripture": "Alma 3:12"
+         }
+      ]
+   },
+   {
+      "location":	"Siron",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Carianton goes after the harlot Isabel",
+            "scripture": "Alma 39:3"
+         }
+      ]
+   },
+   {
+      "location":	"Antionum",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "The Zoramites and the Rameumptom",
+            "scripture": "",
+            "BOMS link": "chapter-28-the-zoramites-and-the-rameumptom"
+         }
+      ]
+   },
+   {
+      "location":	"Helam",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[{
+         "event": "Helam built",
+         "scripture": "",
+         "BOMS link": "chapter-15-alma-teaches-and-baptizes"
+      }]
+   },
+   {
+      "location":	"Gideon",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event":	"Korihor",
+            "scripture":		"",
+            "BOMS link":	"chapter-27-korihor"
+         }
+      ]
+   },
+   {
+      "location":	"Aaron",
+      "Type":		"Minor City",
+      "Desc":		"Near Moroni, Nephihah, and Ammonihah",
+      "Events":[ ]
+   },
+   {
+      "location":	"Zeezrom",
+      "Type":		"Minor City",
+      "Desc":		"Nephite city on southwest frontier",
+      "Events":[
+         {
+            "event": "Captured by Lamanites",
+            "scripture": "Alma 56:13-14"
+         }
+      ]
+   },
+   {
+      "location":	"Manti",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[ 
+         {
+            "event": "Moroni defeats Zerahemnah",
+            "scripture": "",
+            "BOMS link": "chapter-31-captain-moroni-defeats-zerahemnah"
+         }
+      ]
+   },
+   {
+      "location":	"Cumeni",
+      "Type":		"Minor City",
+      "Desc":		"Nephite city to the southwest",
+      "Events":[
+         {
+            "event": "Captured by Lamanites",
+            "scripture": "Alma 56:13-14"
+         },
+         {
+            "event": "Converted",
+            "scripture": "Alma 23:11"
+         },
+         {
+            "event": "Converted",
+            "scripture": "Alma 23:11"
+         },
+         {
+            "event": "Converted",
+            "scripture": "Alma 23:11"
+         },
+         {
+            "event": "Converted",
+            "scripture": "Alma 23:11"
+         }
+      ]
+   },
+   {
+      "location":	"Antiparah",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Possessed by lamanites",
+            "scripture": "Alma 56:14"
+         },
+         {
+            "event": "Hlmn decoys Nephite soldiers",
+            "scripture": "Alma 56:31-34"
+         },
+         {
+            "event": "Regained by Nephites",
+            "scripture": "Alma 57:1-4"
+         }
+      ]
+   },
+   {
+      "location":	"Minon",
+      "Type":		"Minor City?land",
+      "Desc":		"Above the land of Zarahemla",
+      "Events":[
+         {
+            "event": "Lamanites seen",
+            "scripture": "Alma 2:24"
+         }
+      ]
+   },
+   {
+      "location":	"Judea",
+      "Type":		"Minor City",
+      "Alignment":"Nephite",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Helaman against Antipus",
+            "scripture": "",
+            "BOMS link": "chapter-34-helaman-and-the-2000-young-warriors"
+         },
+         {
+            "event": "Helaman marches with stripling warriors",
+            "scripture": "Alma 56:9"
+         },
+         {
+            "event": "Fortify judea",
+            "scripture": "Alma 56:15"
+         },
+         {
+            "event": "Nephites send provisions",
+            "scripture": "Alma 57:11"
+         }
+      ]
+   },
+   {
+      "location":	"Kishkumen",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Burned",
+            "scripture": "3 Nephi 9:7"
+         }
+      ]
+   },
+   {
+      "location":	"Noah",
+      "Type":		"Minor City",
+      "Desc":		"In land of Zarahemla, near ammonihah",
+      "Events":[
+         {
+            "event": "Amalikiah marches toward Noah",
+            "scripture": "Alma 49:12-13"
+         },
+         {
+            "event": "Strengthened by Moroni",
+            "scripture": "Alma 49:14-15"
+         }
+      ]
+   },
+   {
+      "location":	"Onihah",
+      "Type":		"Minor City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Waters",
+            "scripture": "3 Nephi 9:7"
+         }
+      ]
+   },
+   {
+      "location":	"Ammonihah",
+      "Type":		"City",
+      "Desc":		"",
+      "Events":[
+         {
+         "event": "Almas mission to ammonihah",
+         "scripture": "",
+         "BOMS link": "chapter-22-almas-mission-to-ammonihah"
+         }
+      ]
+   },
+   {
+      "location":	"Babylon",
+      "Type":		"City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Tower of babel",
+         "scripture": "",
+         "BOMS link": "chapter-50-the-jaredites-leave-babel"
+         }
+      ]
+   },
+   {
+      "location":	"Judah",
+      "Type":		"City",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Record of the jews",
+            "scripture": "1 Nephi 5:12"
+         },
+         {
+            "event": "Joseph in egpyt sees the book of mormon",
+            "scripture": "2 Nephi 5:12"
+         }
+      ]
+   },
+   {
+      "location":	"Land of First Inheritance",
+      "Type":		"Land",
+      "Desc":		"",
+      "Events":{
+         "event": "A new home in the promised land",
+         "scripture": "",
+         "BOMS link": "chapter-9-a-new-home-in-the-promised-land"
+      }
+   },
+   {
+      "location":	"Land of First Inheritance(Jaredites)",
+      "Type":		"Land",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Getting to land",
+            "scripture": "",
+            "BOMS link": "chapter-51-the-jaredites-travel-to-the-promised-land"
+         }
+      ]
+   },
+   {
+      "location":	"Waters of Mormon",
+      "Type":		"Water",
+      "Desc":		"",
+      "Events":{
+         "event": "Alma baptizes",
+         "scripture": "",
+         "BOMS link": "chapter-15-alma-teaches-and-baptizes"
+      }
+   },
+   {
+      "location":	"Waters of Sebus",
+      "Type":		"Water",
+      "Desc":		"in the land of Ishmael",
+      "Events":[
+         {
+            "event": "Ammon contends with Lamanites to guard flock",
+            "scripture": "Alma 17-19"
+         }
+      ]
+   },
+   {
+      "location":	"River Sidon",
+      "Type":		"Water",
+      "Desc":		"Most prominent river in nephite territory",
+      "Events":[
+         {
+            "event": "Many are baptized",
+            "scripture": "Alma 4:4"
+         }
+      ]
+   },
+   {
+      "location":	"Sea West",
+      "Type":		"Water",
+      "Desc":		"",
+      "Events":[
+
+      ]
+   },
+   {
+      "location":	"Sea East",
+      "Type":		"Water",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Hagoth loses his ships",
+            "scripture": "",
+            "BOMS link": "chapter-36-hagoth"
+         }
+      ]
+   },
+   {
+      "location":	"Waters of Ripliancum",
+      "Type":		"Water",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Coriantumr and Shiz pitch tents nearby",
+            "scripture": "Ether 15:8"
+         }
+      ]
+   },
+   {
+      "location":	"Irreantum",
+      "Type":		"Water",
+      "Desc":		"",
+      "Events":{
+         "event": "Crossing the sea",
+         "scripture": "",
+         "BOMS link": "chapter-8-crossing-the-sea"
+      }
+   },
+   {
+      "location":	"Mount Zerin",
+      "Type":		"Mountain",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Ether removed the mountain by faith",
+            "scripture": "Ether 12:30"
+         }
+      ]
+   },
+   {
+      "location":	"Mount Antipus",
+      "Type":		"Mountain",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Lamanites gather",
+            "scripture": "Alma 47:7"
+         },
+         {
+            "event": "Amlikiah sends a message to Lehonti",
+            "scripture": "Alma 47:10"
+         }
+      ]
+      
+   },
+   {
+      "location":	"Mount Shelem",
+      "Type":		"Mountain",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Lighting the barges",
+            "scripture": "",
+            "BOMS link": "chapter-51-the-jaredites-travel-to-the-promised-land"
+         }
+      ]
+   },
+   {
+      "location":	"Wilderness of Hermounts",
+      "Type":		"Land",
+      "Desc":		"On the west and north",
+      "Events":[
+         {
+            "event": "Lamanites driven to",
+            "scripture": "Alma 2:37"
+         }
+      ]
+   },
+   {
+      "location":	"South Wilderness",
+      "Type":		"Land",
+      "Desc":		"By antionum",
+      "Events":[
+         {
+            "event": "Lamanites cross",
+            "scripture": "Alma 16:6-7"
+         },
+         {
+            "event": "travels?",
+            "scripture": "Alma 22:31"
+         },
+         {
+            "event": "Full of Lamanites",
+            "scripture": "Alma 31:3"
+         },
+         {
+            "event": "Lamanites encircled",
+            "scripture": "Alma 62:34"
+         }
+      ]
+   },
+   {
+      "location":	"Wilderness of Akish",
+      "Type":		"Land",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Brother of Shared beaten to the wilderness",
+            "scripture": "Ether 14:3-4,14"
+         }
+      ]
+   },
+   {
+      "location":	"Valley of Lemuel",
+      "Type":		"Land",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Lemuel liked to a valley",
+            "scripture": "1 Nephi 2:10-11,14"
+         },
+         {
+            "event": "Valley named after Lemuel",
+            "scripture": "1 Nephi 16:6"
+         }
+      ]
+   },
+   {
+      "location":	"Valley of Nimrod",
+      "Type":		"Land",
+      "Desc":		"Northward",
+      "Events":[
+         {
+            "event": "Jareds family goes to",
+            "scripture": "Ether 2:1,4"
+         }
+      ]
+   },
+   {
+      "location":	"Nahom",
+      "Type":		"Place",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Ishmael buried",
+            "scripture": "1 Nephi 16:34"
+         }
+      ]
+   },
+   {
+      "location":	"Bountiful(near Jerusalem)",
+      "Type":		"Place",
+      "Desc":		"",
+      "Events":
+      {
+         "event": "Building the ship",
+         "scripture": "",
+         "BOMS link": "chapter-7-building-the-ship"
+      }
+   },
+   {
+      "location":	"Saudi Arabia",
+      "Type":		"Continent",
+      "Desc":		"",
+      "Events":[ ]
+   }
+   ,
+   {
+      "location":	"Promised Land(America)",
+      "Type":		"Continent",
+      "Desc":		"",
+      "Events":[ ]
+   },
+   {
+      "location":	"Israel",
+      "Type":		"Place",
+      "Desc":		"",
+      "Events":[ ]
+   },
+   {
+      "location":	"Land of Shemlon",
+      "Type":		"Land",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Zeniff sends spies",
+            "scripture": "Alma 47:7"
+         },
+         {
+            "event": "Possessed by lamanites",
+            "scripture": "Alma 23:11"
+         },
+         {
+            "event": "Lamanites attack the people of Noah",
+            "scripture": "Alma 47:7"
+         },
+         {
+            "event": "Lamanite daughters carried captive by priests of Noah",
+            "scripture": "Alma 23:11"
+         },
+         {
+            "event": "Amulon and brether appointed teachers",
+            "scripture": "Alma 47:7"
+         },
+         {
+            "event": "Converted",
+            "scripture": "Alma 23:8,12"
+         }
+      ]
+   },
+   {
+      "location":	"Land of Middoni",
+      "Type":		"Land",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Ammon meets king Lamonis father",
+            "scripture": "",
+            "BOMS link": "chapter-24-ammon-meets-king-lamonis-father"
+         },
+         {
+            "event": "Converted",
+            "scripture": "Alma 23:10"
+         }
+      ]
+   },
+   {
+      "location":	"Land of Ishmael",
+      "Type":		"Land",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Ammon and sons of mosiah",
+            "scripture": "",
+            "BOMS link": "chapter-23-ammon-a-great-servant"
+         },
+         {
+            "event": "Converted",
+            "scripture": "Alma 23:9"
+         }
+      ]
+   },
+   {
+      "location":	"Land of Midian",
+      "Type":		"Land",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Ammon meets up with his bretheren",
+            "scripture": "Alma 24:5"
+         }
+      ]
+   },
+   {
+      "location":	"Land of Amulon",
+      "Type":		"Land",
+      "Desc":		"Between Zarahemla and Nephi",
+      "Events":[
+         {
+            "event": "Priests of Noah found",
+            "scripture": "Mosiah 23:31"
+         },
+         {
+            "event": "Amulon and bretheren appointed teachers",
+            "scripture": "Mosiah 24:1"
+         }
+      ]
+   },
+   {
+      "location":	"Land of Antionum",
+      "Type":		"Land",
+      "Desc":		"East of the land of Zarahemla",
+      "Events":[
+         {
+            "event": "Zoramites gather",
+            "scripture": "Alma 31:3"
+         },
+         {
+            "event": "Lamanites arrive under zerahmnah",
+            "scripture": "Alma 43:5"
+         },
+         {
+            "event": "Lamanites retire",
+            "scripture": "Alma 43:22"
+         }
+      ]
+   },
+   {
+      "location":	"Land of Melek",
+      "Type":		"Land",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Alma journeys to",
+            "scripture": "Alma 8:3-4"
+         },
+         {
+            "event": "Ammonites come to",
+            "scripture": "Alma 35:13"
+         },
+         {
+            "event": "Alma leaves as if to go to",
+            "scripture": "Alma 45:18"
+         }
+      ]
+   },
+   {
+      "location":	"Land of Sidom",
+      "Type":		"Land",
+      "Desc":		"near ammonihah",
+      "Events":[
+         {
+            "event": "Find converts from Ammonihah",
+            "scripture": "Alma 15:1"
+         },
+         {
+            "event": "Zeezrom lies sick",
+            "scripture": "Alma 15:3"
+         },
+         {
+            "event": "Zeezrom is healed",
+            "scripture": "Alma 15:10-11"
+         },
+         {
+            "event": "Alma establishes a church",
+            "scripture": "Alma 15:13"
+         },
+         {
+            "event": "People repent and are baptized",
+            "scripture": "Alma 15:14-17"
+         }
+      ]
+   },
+   {
+      "location":	"Land of Nephihah",
+      "Type":		"Land",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Nephihah taken by the Lamanites",
+            "scripture": "",
+            "BOMS link": "chapter-35-captain-moroni-and-pahoran"
+         }
+      ]
+   },
+   {
+      "location":	"Land of Nephi",
+      "Type":		"Land",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Aaron teaches king lamonis father",
+            "scripture": "",
+            "BOMS link": "chapter-25-aaron-teaches-king-lamonis-father"
+         },
+         {
+            "event": "Helamans sons are protected",
+            "scripture": "",
+            "BOMS link": "chapter-37-nephi-and-lehi-in-prison"
+         }
+      ]
+   },
+   {
+      "location":	"Land of Moroni",
+      "Type":		"Land",
+      "Desc":		"",
+      "Events":[ ]
+   },
+   {
+      "location":	"Land of Cumorah",
+      "Type":		"Land",
+      "Desc":		"Possibly near Ripliancum",
+      "Events":[
+         {
+            "event": "Nephites gather",
+            "scripture": "Mormon 6:2-4"
+         },
+         {
+            "event": "records hidden",
+            "scripture": "Mormon 6:6"
+         },
+         {
+            "event": "All but 24 Nephites slain",
+            "scripture": "Mormon 6:11"
+         },
+         {
+            "event": "Aftermath",
+            "scripture": "Mormon 8:2"
+         },
+         {
+            "event": "Joseph Smith gets the plates",
+            "scripture": ""
+         }
+      ]
+   },
+   {
+      "location":	"Land of Heth",
+      "Type":		"Land",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Jared rebelled against his father and gains half kingdom",
+            "scripture": "Ether 8:2"
+         }
+      ]
+   },
+   {
+      "location":	"Land of Jershon",
+      "Type":		"Land",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "The people of Ammon",
+            "scripture": "",
+            "BOMS link": "chapter-26-the-people-of-ammon"
+         },
+         {
+            "event": "Escape from the Zoramites",
+            "scripture": "",
+            "BOMS link": "chapter-28-the-zoramites-and-the-rameumptom"
+         },
+         {
+            "event": "Alma teaches the righteous Zoramites",
+            "scripture": "",
+            "BOMS link": "chapter-29-alma-teaches-about-faith-and-the-word-of-god"
+         },
+         {
+            "event": "Moronis army scares off the lamanites",
+            "scripture": "",
+            "BOMS link": "chapter-31-captain-moroni-defeats-zerahemnah"
+         }
+      ]
+   },
+   {
+      "location":	"Narrow neck of land",
+      "Type":		"Land",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Hagoth ships travel",
+            "scripture": "Alma 63:5"
+         },
+         {
+            "event": "great city built by",
+            "scripture": "Ether 10:20"
+         }
+      ]
+   },
+   {
+      "location":	"Valley of Gilgal",
+      "Type":		"Land",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Coriantumr and Shared have a sore battle",
+            "scripture": "Ether:13:27,29-30"
+         }
+      ]
+   },
+   {
+      "location":	"Valley of Corihor",
+      "Type":		"Land",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Coriantumr and shiz battle",
+            "scripture": "Ether 14:27-28"
+         }
+      ]
+   },
+   {
+      "location":	"Valley of Shurr",
+      "Type":		"Land",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Coriantumr pitches tents",
+            "scripture": "Ether 14:28"
+         }
+      ]
+   },
+   {
+      "location":	"Valley of Alma",
+      "Type":		"Land",
+      "Desc":		"A days travel from helaman",
+      "Events":[
+         {
+            "event": "named after alma",
+            "scripture": "Mosiah 24:20"
+         },
+         {
+            "event": "poured out thanks in alma",
+            "scripture": "Mosiah 24:21"
+         }
+      ]
+   },
+   {
+      "location":	"Plains of Agosh",
+      "Type":		"Land",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Lib persues coriantumr to",
+            "scripture": "Ether 14:15-16"
+         }
+      ]
+   },
+   {
+      "location":	"Plains of Heshon",
+      "Type":		"Land",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Coriantumr persues Shared to",
+            "scripture": "Ether 13:28"
+         }
+      ]
+   },
+   {
+      "location":	"Hill Ephraim",
+      "Type":		"Hill",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Iron ore for swords obtained",
+            "scripture": "Ether 7:9"
+         }
+      ]
+   },
+   {
+      "location":	"Hill Cumorah/Ramuh",
+      "Type":		"Hill",
+      "Desc":		"see land",
+      "Events":[ ]
+   },
+   {
+      "location":	"Hill Connor",
+      "Type":		"Hill",
+      "Desc":		"?",
+      "Events":[ ]
+   },
+   {
+      "location":	"Hill Shim",
+      "Type":		"Hill",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Aamorons plates",
+            "scripture": "Mormon 1:2-3",
+            "BOMS link": "chapter-49-mormon-and-his-teachings"
+         }
+      ]
+   },
+   {
+      "location":	"Hill Onidah",
+      "Type":		"Hill",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Alma speaks to the multitude",
+            "scripture": "Alma 32:4"
+         }
+      ]
+   },
+   {
+      "location":	"Hill Manti",
+      "Type":		"Hill",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Nehor put to death",
+            "scripture": "Alma 1:15"
+         }
+      ]
+   },
+   {
+      "location":	"Hill Amnihu",
+      "Type":		"Hill",
+      "Desc":		"",
+      "Events":[
+         {
+            "event": "Amlicites fight nephites",
+            "scripture": "Alma 2:15"
+         }
+      ]
+   },
+   {
+      "location":	"Hill Riplah",
+      "Type":		"Hill",
+      "Desc":		"East of river sidon, near manti",
+      "Events":[
+         {
+            "event": "Armies of Lehi attack lamanites",
+            "scripture": "Alma 43:31,35"
+         }
+      ]
+   }
+   
+   
+   
+   ]
+   }
