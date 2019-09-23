@@ -34,3 +34,5 @@ Visual guide for Book of Mormon: app
     + Arrow
 + User Settings
   + DARK THEME!!!
+  
+  UML diagram link: https://www.lucidchart.com/documents/edit/83c905c4-4cce-4bc2-85ff-2a6f63b87018/0_0
